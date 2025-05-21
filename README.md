@@ -26,6 +26,7 @@ TMP Mart recorded a total revenue of $55.8 million across 26,326 sales orders, w
 - Re-engagement campaign for inactive customers.
 - Turn silent frustration in delivery to renewed loyalty.
 - Use smart bundling to place slower-moving items next to popular ones early in the process.
+![Sales Analysis Dashboard](https://github.com/user-attachments/assets/3d6ad197-1539-4dbd-b7cb-d2f0b9653400)
 ## Insights from Product Performance
 TMP Mart offers 251 products across 11 brands and 8 categories, generating a total profit of $526K. Contoso Brand emerged as the top performer in both sales and profit, while Fabrikam Refrigerators were the top profit-generating item. Home Appliances stood out as the highest revenue and volume category, showing strong household demand. Color played a key role, as Black, White, and Silver products sold the most and brought in the highest profit. Revenue was split evenly between delivered orders and store pickups, with pickups mainly happening in larger stores. Subcategories like Washers, Projectors, and Camcorders also performed well, pointing us toward high-interest niches.
 ### Recommendation from Product Performance
@@ -54,7 +55,8 @@ TMP Mart currently operates 67 stores across 9 countries, with an average store 
 Most of our revenue comes in USD ($29.87M), showing strong U.S. market dominance. But we’re also growing across Europe with €11.37M and £7.08M, and gaining ground in Canada (CAD 4.71M) and Australia (AUD 2.71M). This diversity is great for reach, but it also means currency shifts can directly affect our bottom line."
 ### Recommendation from Exchange Rate Analysis
 To protect our profits from currency volatility, we should consider regularly monitoring exchange rates, setting dynamic pricing strategies for non-USD markets, and working with finance teams to hedge against high-risk currencies. This will help TMP Mart stay profitable no matter how the market moves.
-
+## Constraint
+Information on pickup goods and delivery time were not provided.
 
 
 
