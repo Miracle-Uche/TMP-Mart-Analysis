@@ -26,7 +26,6 @@ TMP Mart recorded a total revenue of $55.8 million across 26,326 sales orders, w
 - Re-engagement campaign for inactive customers.
 - Turn silent frustration in delivery to renewed loyalty.
 - Use smart bundling to place slower-moving items next to popular ones early in the process.
-![image](https://github.com/user-attachments/assets/5fe8dd28-6492-4c78-b4dc-7021b1505d70)
 ## Insights from Product Performance
 TMP Mart offers 251 products across 11 brands and 8 categories, generating a total profit of $526K. Contoso Brand emerged as the top performer in both sales and profit, while Fabrikam Refrigerators were the top profit-generating item. Home Appliances stood out as the highest revenue and volume category, showing strong household demand. Color played a key role, as Black, White, and Silver products sold the most and brought in the highest profit. Revenue was split evenly between delivered orders and store pickups, with pickups mainly happening in larger stores. Subcategories like Washers, Projectors, and Camcorders also performed well, pointing us toward high-interest niches.
 ### Recommendation from Product Performance
