@@ -56,6 +56,15 @@ Most of our revenue comes in USD ($29.87M), showing strong U.S. market dominance
 To protect our profits from currency volatility, we should consider regularly monitoring exchange rates, setting dynamic pricing strategies for non-USD markets, and working with finance teams to hedge against high-risk currencies. This will help TMP Mart stay profitable no matter how the market moves.
 ## Constraint
 Information on pickup goods and delivery time were not provided.
+## Use Case
+- International retail analytics  
+- Currency exchange impact reporting  
+- Sales forecasting and store benchmarking  
+- BI storytelling and executive reporting
+## Author
+**Miracle Chinnaya Uche**  
+Data Analyst
+[LinkedIn](https://www.linkedin.com/in/miracle-uche-ba9960213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
